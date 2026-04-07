@@ -1,6 +1,6 @@
 ## Hi there 👋
---I am Caio Campos also know as Kuhako 😊--
-** A Development student from Brazil **
+--I am Caio Campos also know as Kuhako 😊--  
+** A Development student from Brazil **  
 ++ Learned C, JavaScript and React ++
 
 <!--
