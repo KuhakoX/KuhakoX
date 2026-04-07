@@ -1,5 +1,5 @@
 ## Hi there 👋
---I am Caio Campos also know as Kuhako 😊--  
+--I am Caio Campos Mendes also know as Kuhako 😊--  
 ** A Development student from Brazil 💚💛**  
 ++ Learned C, JavaScript and React 🙂‍↔️++  
 
