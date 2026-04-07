@@ -1,7 +1,7 @@
 ## Hi there 👋
 --I am Caio Campos also know as Kuhako 😊--  
-** A Development student from Brazil **  
-++ Learned C, JavaScript and React ++
+** A Development student from Brazil 💚💛**  
+++ Learned C, JavaScript and React 🙂‍↔️++  
 
 <!--
 **KuhakoX/KuhakoX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
